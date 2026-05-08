@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>LinguAnime Privacy Policy</title>
+<style>
+body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 24px; color: #222; line-height: 1.55; }
+h1, h2 { color: #ff6600; }
+h2 { margin-top: 32px; font-size: 18px; }
+.last-updated { color: #777; font-size: 13px; }
+code { background: #f0f0f0; padding: 1px 5px; border-radius: 3px; font-size: 13px; }
+</style>
+</head>
+<body>
+<h1>LinguAnime Privacy Policy</h1>
+<p class="last-updated">Last updated: <span id="lu">[fill in date when publishing]</span></p>
+
+<h2>What we collect</h2>
+<p>LinguAnime is designed to operate entirely within your browser. We do not run servers that collect, store, or process your data.</p>
+<ul>
+  <li><strong>Saved vocabulary words</strong> are stored locally in your browser via Chrome's <code>storage.local</code> API. If you have a Pro subscription, they're stored in <code>storage.sync</code> so they sync across devices where you're signed into Chrome — Google handles this storage, not us.</li>
+  <li><strong>Subtitle text and timing</strong> are fetched in real time from Crunchyroll's servers using your existing logged-in session, processed in your browser, and discarded when you close the tab. We never see this data.</li>
+  <li><strong>Translations</strong> are requested from Google Translate's public endpoint and MyMemory. Your queries (the subtitle text being translated) go directly from your browser to those services. We do not log or proxy these requests.</li>
+  <li><strong>Subscription status</strong>, if you upgrade to Pro, is managed by ExtensionPay (a third-party Stripe wrapper). We receive only a boolean "paid: true/false" and your email address from ExtensionPay's getUser() API. Payment details are processed by Stripe and never touch our systems.</li>
+</ul>
+
+<h2>What we don't do</h2>
+<ul>
+  <li>We do not collect analytics, tracking pixels, fingerprints, or telemetry.</li>
+  <li>We do not have a server-side database of users, watch history, or vocabulary.</li>
+  <li>We do not sell, share, or transfer any data to third parties (except as listed above for the services that make the extension function).</li>
+  <li>We do not redistribute Crunchyroll's content. Subtitles are fetched only from your authenticated session and only displayed to you.</li>
+</ul>
+
+<h2>Permissions explained</h2>
+<ul>
+  <li><code>storage</code> — saving your vocabulary list and preferences locally.</li>
+  <li><code>activeTab</code> — knowing when you're on a Crunchyroll watch page.</li>
+  <li>Host permissions for crunchyroll.com and crunchyrollcdn.com — fetching subtitle metadata from your authenticated session.</li>
+  <li>Host permissions for translate.googleapis.com and api.mymemory.translated.net — sending subtitle/word text for translation.</li>
+  <li>Host permissions for extensionpay.com — managing your Pro subscription.</li>
+</ul>
+
+<h2>Disclaimer</h2>
+<p>LinguAnime is an independent tool built for language learners. It is not affiliated with, endorsed by, sponsored by, or in any way officially connected with Crunchyroll LLC or any of its subsidiaries or affiliates. The official Crunchyroll website is <a href="https://www.crunchyroll.com/">crunchyroll.com</a>.</p>
+<p>You are responsible for ensuring that your use of LinguAnime complies with the terms of service of any platforms it interacts with. Use only with content you have legitimate, paid access to.</p>
+
+<h2>Contact</h2>
+<p>Questions about privacy? Email <a href="mailto:luehrstaylor@gmail.com">luehrstaylor@gmail.com</a>.</p>
+
+<h2>Changes to this policy</h2>
+<p>If we materially change how the extension handles data, we'll update this policy and bump the "Last updated" date. Continued use of the extension after a change constitutes acceptance.</p>
+
+<script>document.getElementById('lu').textContent = new Date().toLocaleDateString();</script>
+</body>
+</html>
