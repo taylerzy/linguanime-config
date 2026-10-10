@@ -16,3 +16,11 @@ These are Taylor's standing rules. Follow them in every session.
 - Short replies. Put decisions in one numbered list.
 - Never print secrets. Ops output is aggregates only, with no guest names, emails or phones.
 - Never refer to a fleet by its number (fleet 1, fleet 15). Use the fleet's name, such as Taylor's Rentals.
+
+## Carry-Over Items
+
+On the next artifact about final tasks, list these as Taylor's own tasks (his pick, Oct 10, 2026):
+
+- Try the Subscribe flow and the header's Subscribe button end to end (billing was off on the review copy).
+- Connect a real Google account and check the Gmail panel's green, yellow and red states.
+- Test suite speed: CI passes, but a busy machine runs the suite in 16 to 18 seconds against the 15-second rule.
