@@ -15,3 +15,4 @@ These are Taylor's standing rules. Follow them in every session.
 - Don't schedule check-ins or follow-ups without Taylor's approval.
 - Short replies. Put decisions in one numbered list.
 - Never print secrets. Ops output is aggregates only, with no guest names, emails or phones.
+- Never refer to a fleet by its number (fleet 1, fleet 15). Use the fleet's name, such as Taylor's Rentals.
