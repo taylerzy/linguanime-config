@@ -24,3 +24,15 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - Try the Subscribe flow and the header's Subscribe button end to end (billing was off on the review copy).
 - Connect a real Google account and check the Gmail panel's green, yellow and red states.
 - Test suite speed: CI passes, but a busy machine runs the suite in 16 to 18 seconds against the 15-second rule.
+
+## Standing Decisions (Oct 11, 2026)
+
+- Auto Pricer: make no changes for now (Taylor's call after the hybrid assessment).
+- At the next legal change, and not before: remove PayPal and Venmo from the Privacy Notice, and add to terms section 6 that a removed car's unused days are credited on the next bill, never refunded.
+- "Trip Money" extra feature: leave as built (see and enter trip money).
+
+## Reminders Taylor Asked to Keep
+
+Add these to the reminders at the end of every reply until Taylor says they are done:
+
+- Drive: in Fleet Settings, Cleaning Photos, share the cleaning-photos folder with the app's Drive address as an Editor and paste the folder link, so the app can make each cleaning's folder.
