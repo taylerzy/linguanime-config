@@ -36,3 +36,10 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 Add these to the reminders at the end of every reply until Taylor says they are done:
 
 - Drive: in Fleet Settings, Cleaning Photos, share the cleaning-photos folder with the app's Drive address as an Editor and paste the folder link, so the app can make each cleaning's folder.
+
+## Pending Data Fixes (Oct 11, 2026)
+
+Both dry runs were checked against production on Oct 11 and matched what was expected. Applying them was blocked by the permission check, so they wait for Taylor's OK. After each apply, re-run its dry run to confirm.
+
+- `scripts/ops_queries/fix_oil_baselines_fleet1.py` (taylerzy/taylorsfleet): re-estimates 7 auto-found oil changes on 7 cars. The Red Fiesta goes from overdue to OK, about 554 miles to go as of Oct 8.
+- `scripts/ops_queries/fix_folder_vin_matches_fleet1.py`: relinks the disabled Silver Sonic's 19 renamed cleaning folders to that car and closes their 19 "did not match a car" alerts. Afterwards, check that the Sonic's 2026 miles still read 7,282 and re-run `metrics_cleaning_check.py`.
