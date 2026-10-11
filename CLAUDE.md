@@ -28,7 +28,7 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 
 ## Standing Decisions (Oct 11, 2026)
 
-- Auto Pricer: make no changes for now (Taylor's call after the hybrid assessment). Oct 11: the Oct 10 floor at Turo's price (cars 60% or more booked) was removed at Taylor's report that every car sat at exactly Turo's price; a car with no trips still takes Turo's price. Taylor then set (Oct 11): a car holds or raises its prices only at 80% booked or more (was 60%, a July 9 guess); a car with no trips goes 5% under Turo's price once it has been listed a full day with nothing booked. The one-time reset (fix_unfloor_fleet1.py) was not run: under the 80% rule the nightly pass brings the other cars down on its own.
+- Auto Pricer (Taylor, Oct 11, 2026): back to the engine as it was before the Oct 10 floor, entirely, with one tweak: a day priced under Turo's price moves a quarter of the way toward it (TOWARD_TURO_PCT = 25). Kept from Oct 10: hand-made listings skipped, Turo cars only, stop at Turo's first refused change. Kept from Taylor's Oct 11 ask: a car with no trips takes Turo's price, 5% under once listed a full day with nothing booked. Hold-or-raise is back at 60% booked. All existing days were reset to these prices on Oct 11 (fix_unfloor_fleet1.py).
 - At the next legal change, and not before: remove PayPal and Venmo from the Privacy Notice, and add to terms section 6 that a removed car's unused days are credited on the next bill, never refunded.
 - "Trip Money" extra feature: leave as built (see and enter trip money).
 - A fleet with no owner yet can be closed by the co-host who created it, until it is claimed; after that, only the owner can close it.
