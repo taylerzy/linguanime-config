@@ -32,13 +32,15 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - "Trip Money" extra feature: leave as built (see and enter trip money).
 - A fleet with no owner yet can be closed by the co-host who created it, until it is claimed; after that, only the owner can close it.
 
-## To Discuss Before Building (Oct 11, 2026)
+## Multi-Fleet Accounts (Taylor's decisions, Oct 11, 2026; being built)
 
-Taylor asked to discuss these first and not build them yet:
-
-- Co-hosts who run many fleets for many owners (for example, a co-host with thousands of cars under different hosts): run every fleet without each owner signing up, and coordinate their own cleaners across those fleets.
-- A personal home page for co-hosts, VAs and cleaners in more than one fleet: each fleet in its own section on one page, separate from the fleet's home page.
-- A person holding more than one role, such as an owner who also cleans.
+- All accounts are the same kind. Only Taylor's own account keeps the platform owner's extras. An account's role comes from each fleet it belongs to: it can own fleets and be a co-host, VA or cleaner in others.
+- Any account can create a fleet. Any account can be added to another fleet as a co-host, VA or cleaner.
+- In one fleet only, a person sees just what their role there allows. In two or more fleets, they also get combined views: a My Home landing page with a section per fleet, an overall Cleaning tab, and an overall schedule of the cleanings they need to do. They can still pick one fleet at a time, which changes the tabs.
+- An owner who also cleans for other fleets sees their own fleet's trips and cleanings in those combined views, plus the cleanings they do for the other fleets.
+- One mailbox for a co-host's Turo mail, filed into the right fleet by car (VIN, listing, plate). Mail that can't be placed is held.
+- One bill for everything a co-host pays for, priced on the combined car count. Any owner can still take over their own fleet's bill.
+- Cleaner pay is recorded in each fleet, as that owner's expense and 1099. The cleaner sees one combined list.
 
 ## Reminders Taylor Asked to Keep
 
