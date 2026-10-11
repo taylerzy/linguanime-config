@@ -41,8 +41,9 @@ sloppy; the rules below exist so that never happens again.
    built Taylor's Fleet Services for his own fleet. No car count.
 5. Value, one or two sentences: the one or two outcomes that matter most to this recipient,
    from Verified Claims only.
-6. Risk reversal and an easy ask: one yes or no question that costs them little (a short
-   video, a look at the site), not a meeting demand. Mention the safety net where they are
+6. Risk reversal and an easy ask: one yes or no question that costs them little (setting it up
+   on a few of their cars, a look at the site, a short call for partners). Never promise a
+   video: Taylor is not making videos yet. Mention the safety net where they are
    the buyer: 14 days free, no card to sign up, full refund if they cancel in the first 30
    days after paying. Price ($15 a car a month) only for buyers, never for partners, press
    or podcasts.
