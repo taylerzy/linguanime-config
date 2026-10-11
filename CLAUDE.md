@@ -28,7 +28,7 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 
 ## Standing Decisions (Oct 11, 2026)
 
-- Auto Pricer: make no changes for now (Taylor's call after the hybrid assessment).
+- Auto Pricer: make no changes for now (Taylor's call after the hybrid assessment). Oct 11: the Oct 10 floor at Turo's price (cars 60% or more booked) was removed at Taylor's report that every car sat at exactly Turo's price; a car with no trips still takes Turo's price. A one-time reset of existing days to the pricer's own prices (scripts/ops_queries/fix_unfloor_fleet1.py, dry run checked Oct 11) waits on Taylor's OK.
 - At the next legal change, and not before: remove PayPal and Venmo from the Privacy Notice, and add to terms section 6 that a removed car's unused days are credited on the next bill, never refunded.
 - "Trip Money" extra feature: leave as built (see and enter trip money).
 - A fleet with no owner yet can be closed by the co-host who created it, until it is claimed; after that, only the owner can close it.
@@ -45,12 +45,6 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - Cleaner pay is recorded in each fleet, as that owner's expense and 1099. The cleaner sees one combined list.
 - Taylor left these to my judgment (Oct 11; released Oct 11): keep "Remove From My Bill"; don't build account-level Gmail (forwarding to Your Turo Mail covers it) but refuse connecting one Gmail in several fleets and point to Your Turo Mail; add an All Fleets Alerts tab of the stored alerts from fleets where the person's role sees alerts.
 - Follow-ups noted at release: when billing is on, My Home checks each fleet's bill, which will need batching for a person with hundreds of fleets; fleets someone already pays for separately are not merged into one bill automatically.
-
-## For the Next Deploy (Taylor, Oct 11, 2026)
-
-Do these in the next release that goes out for any other reason, not on their own:
-
-- The dashboard car chip "Need GPS" reads "Needs GPS" (app/templates/_dashboard_grid.html, the chip text and its comment; the comments in vehicle_routes.py and templating.py that name it).
 
 ## Reminders Taylor Asked to Keep
 
