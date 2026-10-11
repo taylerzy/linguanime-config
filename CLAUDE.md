@@ -43,7 +43,7 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - One mailbox for a co-host's Turo mail, filed into the right fleet by car (VIN, listing, plate). Mail that can't be placed is held.
 - One bill for everything a co-host pays for, priced on the combined car count. Any owner can still take over their own fleet's bill.
 - Cleaner pay is recorded in each fleet, as that owner's expense and 1099. The cleaner sees one combined list.
-- Taylor left these to my judgment (Oct 11): keep "Remove From My Bill"; don't build account-level Gmail (forwarding to Your Turo Mail covers it) but refuse connecting one Gmail in several fleets and point to Your Turo Mail; add an All Fleets Alerts tab of the stored alerts from fleets where the person's role sees alerts.
+- Taylor left these to my judgment (Oct 11; released Oct 11): keep "Remove From My Bill"; don't build account-level Gmail (forwarding to Your Turo Mail covers it) but refuse connecting one Gmail in several fleets and point to Your Turo Mail; add an All Fleets Alerts tab of the stored alerts from fleets where the person's role sees alerts.
 - Follow-ups noted at release: when billing is on, My Home checks each fleet's bill, which will need batching for a person with hundreds of fleets; fleets someone already pays for separately are not merged into one bill automatically.
 
 ## Reminders Taylor Asked to Keep
