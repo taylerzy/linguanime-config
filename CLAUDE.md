@@ -23,6 +23,7 @@ These are Taylor's standing rules. Follow them in every session.
 - Research every recipient (name and facts, with source links); samples first for Taylor's approval; work in rounds with a tracker; a second reviewer checks each email; nothing reaches Taylor's mailbox until it passes; never send.
 - No blanks, brackets, placeholders or markers. If only Taylor knows something, ask him before drafting.
 - Subjects are Title Case. Never "Hi there,". Links are real links, never split.
+- No opt-out line of any kind (Taylor's call): one-off emails, no automated follow-ups; Taylor follows up personally only on a reply. Drafts go to taylor@taylorsfleet.com, not Gmail.
 
 ## Carry-Over Items
 

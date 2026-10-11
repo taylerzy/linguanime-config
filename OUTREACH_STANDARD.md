@@ -25,7 +25,9 @@ sloppy; the rules below exist so that never happens again.
    generic, repeated, untrue, unclear or pushy. A script also checks every rule below.
 5. Nothing reaches Taylor's mailbox until it passes both checks. Drafts load in one batch,
    never one tool call per draft.
-6. Never send. Taylor decides when and how sending is scheduled.
+6. Never send. Taylor decides when and how sending is scheduled. Each email is a one-off:
+   no automated follow-ups; Taylor follows up personally only when they reply.
+7. Drafts go to taylor@taylorsfleet.com (Northwest mailbox), not Gmail.
 
 ## Email Shape (70 to 120 words above the signature)
 1. Subject: Title Case, 3 to 6 words, specific to them. No brackets, no "Re:", no all caps,
@@ -44,10 +46,8 @@ sloppy; the rules below exist so that never happens again.
    the buyer: 14 days free, no card to sign up, full refund if they cancel in the first 30
    days after paying. Price ($15 a car a month) only for buyers, never for partners, press
    or podcasts.
-7. Opt-out, last line before the signature, plain and human: "If this isn't relevant, just
-   tell me and I won't follow up." (US CAN-SPAM requires a clear opt-out and a postal address
-   on every commercial email, one-to-one and business-to-business included, up to $53,088 per
-   email.)
+7. No opt-out line of any kind (Taylor, Oct 11, 2026). These are one-off, individually
+   tailored emails that Taylor follows up on personally, and only when they reply.
 
 ## Signature (exactly; taylorsfleet.com and LinkedIn are real links)
 Taylor Luehrs
@@ -88,5 +88,6 @@ a plain-text copy. Never split or disguise a link.
 - Quote customer counts, ratings or testimonials.
 - Mention how they were found, lists, research or other recipients.
 - Exclamation marks, emoji, bold, buzzwords, more than one question.
-- "Hi there,", lowercase subjects, "Reply stop", brackets, placeholders, working markers.
+- "Hi there,", lowercase subjects, "Reply stop" or any opt-out line, brackets,
+  placeholders, working markers.
 - Any link other than taylorsfleet.com and Taylor's LinkedIn.
