@@ -24,6 +24,7 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - Try the Subscribe flow and the header's Subscribe button end to end (billing was off on the review copy).
 - Connect a real Google account and check the Gmail panel's green, yellow and red states.
 - Test suite speed: CI passes, but a busy machine runs the suite in 16 to 18 seconds against the 15-second rule.
+- With billing on, against real Stripe: Add to My Bill, Take Over This Bill, a payer leaving a fleet on their combined bill, and Pay With My Card (all tested only against a stand-in).
 
 ## Standing Decisions (Oct 11, 2026)
 
@@ -31,8 +32,9 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - At the next legal change, and not before: remove PayPal and Venmo from the Privacy Notice, and add to terms section 6 that a removed car's unused days are credited on the next bill, never refunded.
 - "Trip Money" extra feature: leave as built (see and enter trip money).
 - A fleet with no owner yet can be closed by the co-host who created it, until it is claimed; after that, only the owner can close it.
+- Also at the next legal change, and not before: add to the terms that a person who pays for more than one fleet can put them on one combined bill priced on the total car count, that a fleet taken off the bill or left keeps running to the end of the paid period with no refund, that a fleet moved to its owner's card or closed is credited for unused days, and that the money-back guarantee applies once, to the combined bill's first payment. Add to the Privacy Notice that Turo mail held for a person to file is kept whole until filed or removed, up to 180 days.
 
-## Multi-Fleet Accounts (Taylor's decisions, Oct 11, 2026; being built)
+## Multi-Fleet Accounts (Taylor's decisions, Oct 11, 2026; released Oct 11)
 
 - All accounts are the same kind. Only Taylor's own account keeps the platform owner's extras. An account's role comes from each fleet it belongs to: it can own fleets and be a co-host, VA or cleaner in others.
 - Any account can create a fleet. Any account can be added to another fleet as a co-host, VA or cleaner.
@@ -41,6 +43,7 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - One mailbox for a co-host's Turo mail, filed into the right fleet by car (VIN, listing, plate). Mail that can't be placed is held.
 - One bill for everything a co-host pays for, priced on the combined car count. Any owner can still take over their own fleet's bill.
 - Cleaner pay is recorded in each fleet, as that owner's expense and 1099. The cleaner sees one combined list.
+- Follow-ups noted at release: account-level Gmail is not built (forwarding covers it); no All Fleets Alerts tab (alert counts show on My Home); when billing is on, My Home checks each fleet's bill, which will need batching for a person with hundreds of fleets; fleets someone already pays for separately are not merged into one bill automatically.
 
 ## Reminders Taylor Asked to Keep
 
