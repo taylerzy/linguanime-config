@@ -45,7 +45,7 @@ sloppy; the rules below exist so that never happens again.
    on a few of their cars, a look at the site, a short call for partners). Never promise a
    video: Taylor is not making videos yet. Mention the safety net where they are
    the buyer: 14 days free, no card to sign up, full refund if they cancel in the first 30
-   days after paying. Price ($15 a car a month) only for buyers, never for partners, press
+   days after paying. Price ("from $15 a car a month") only for buyers, never for partners, press
    or podcasts.
 7. No opt-out line of any kind (Taylor, Oct 11, 2026). These are one-off, individually
    tailored emails that Taylor follows up on personally, and only when they reply.
@@ -63,8 +63,9 @@ Links: https://taylorsfleet.com and https://www.linkedin.com/in/tayluehrs. Send 
 a plain-text copy. Never split or disguise a link.
 
 ## Verified Claims (say only these, in plain words)
-- Cleaners are asked by email the moment a car needs cleaning, one after another in the
-  order you set, until someone says yes. No app or account for the cleaner.
+- When a trip ends, cleaners are asked by email one after another in the order you set,
+  until someone says yes. No app or account for the cleaner. Say "when a trip ends", not
+  "the moment": a first request can wait until morning when nothing is due soon.
 - Each car's clean-by time comes from its next booking (or 9 AM the next morning if
   sooner); a car running late is flagged while there is still time.
 - Turo's payout emails are read as they arrive: earned, paid out, still owed.
@@ -77,8 +78,9 @@ a plain-text copy. Never split or disguise a link.
   time stamps.
 - Mechanic dispatch with a runner; the car's cleaning is called off.
 - A co-host or VA login that sees no money; one login can work in several fleets.
-- $15 a car a month; 14 days free; no card to sign up; full refund if cancelled in the first
-  30 days after paying.
+- From $15 a car a month ($15 for cars 1 to 5, $12 for cars 6 to 20, $10 from car 21); 14 days
+  free; no card to sign up; the first payment is refunded on a cancel within 30 days of it. In
+  an email say "from $15 a car a month", never a flat $15.
 - Partners: a referral cut on every host they bring (terms open); VA firms get a free fleet
   for their own team.
 

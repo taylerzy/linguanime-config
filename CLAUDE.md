@@ -23,6 +23,7 @@ These are Taylor's standing rules. Follow them in every session.
 - Research every recipient (name and facts, with source links); samples first for Taylor's approval; work in rounds with a tracker; a second reviewer checks each email; nothing reaches Taylor's mailbox until it passes; never send.
 - No blanks, brackets, placeholders or markers. If only Taylor knows something, ask him before drafting.
 - Subjects are Title Case. Never "Hi there,". Links are real links, never split.
+- taylorsfleet.com mail (Oct 11, 2026): the @ MX record was "0 default.org." (dead) from Northwest's setup and was changed to "10 mailserver.businessidentity.llc." through Northwest's dashboard API (PUT client/domains/{id}/dns, records with changetype REPLACE; it replaces only that record set). Outbound from taylor@taylorsfleet.com passes SPF, DKIM and DMARC. Northwest's DNS page needs a live connection this cloud session can't make.
 - No opt-out line of any kind (Taylor's call): one-off emails, no automated follow-ups; Taylor follows up personally only on a reply. Drafts go to taylor@taylorsfleet.com, not Gmail.
 
 ## Carry-Over Items
