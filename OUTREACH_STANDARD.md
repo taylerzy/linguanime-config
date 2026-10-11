@@ -29,26 +29,31 @@ sloppy; the rules below exist so that never happens again.
    no automated follow-ups; Taylor follows up personally only when they reply.
 7. Drafts go to taylor@taylorsfleet.com (Northwest mailbox), not Gmail.
 
-## Email Shape (70 to 120 words above the signature)
-1. Subject: Title Case, 3 to 6 words, specific to them. No brackets, no "Re:", no all caps,
-   no clickbait. Never more than three subjects in a row with the same pattern.
+## Email Shape (100 to 150 words above the signature)
+Every email answers, in this order, the questions a stranger asks when it lands. If any one
+is missing, the email is babble: rewrite it.
+1. Subject: Title Case, 3 to 6 words, names their business or their problem. No brackets,
+   no "Re:", no all caps, no clickbait.
 2. Greeting: "Hi {First}," when research ties a real person to that inbox; otherwise
    "Hi {Company} team,". Never "Hi there,".
-3. Opening: why them, why now, in one or two sentences, built on a true, checkable fact
-   about them. Never claim to have read, watched or used something that research did not
-   find, and never imply a relationship that does not exist.
-4. Credibility, one sentence: Taylor hosts on Turo in Dayton and is a software engineer; he
-   built Taylor's Fleet Services for his own fleet. No car count.
-5. Value, one or two sentences: the one or two outcomes that matter most to this recipient,
-   from Verified Claims only.
-6. Risk reversal and an easy ask: one yes or no question that costs them little (setting it up
-   on a few of their cars, a look at the site, a short call for partners). Never promise a
-   video: Taylor is not making videos yet. Mention the safety net where they are
-   the buyer: 14 days free, no card to sign up, full refund if they cancel in the first 30
-   days after paying. Price ("from $15 a car a month") only for buyers, never for partners, press
-   or podcasts.
+3. Where I found you, and what caught my interest (first sentence or two): the real place
+   (an article, their site, a search for Turo co-hosts in their city) and one specific thing
+   about them that a peer would notice. Never claim to have read, watched or used something
+   research did not find.
+4. The point (one sentence, early): why I'm writing to them in particular. It ties the fact
+   above to a consequence for them ("so when a partner misses a turnover, it's your renter
+   who gets the dirty car"). This is the "so what".
+5. The bridge to what we have (one or two sentences): Taylor hosts on Turo in Dayton and built
+   Taylor's Fleet Services for his own cars; then only the one or two outcomes that answer
+   the consequence in point 4, from Verified Claims. No feature lists.
+6. The ask, easy to say yes to: one question. Buyers: try it on a few cars, with the safety
+   net (14 days free, no card, from $15 a car a month). Partners: a short call about a
+   referral cut. Never a video.
 7. No opt-out line of any kind (Taylor, Oct 11, 2026). These are one-off, individually
    tailored emails that Taylor follows up on personally, and only when they reply.
+
+The reviewer's test: read only the first two sentences. If they don't say who they are to
+Taylor and why he is writing, the email fails.
 
 ## Signature (exactly; taylorsfleet.com and LinkedIn are real links)
 Taylor Luehrs
@@ -89,7 +94,8 @@ a plain-text copy. Never split or disguise a link.
 - Say it texts or pays cleaners, messages guests, changes listings or prices, or signs in to
   a customer's Turo account.
 - Quote customer counts, ratings or testimonials.
-- Mention how they were found, lists, research or other recipients.
+- Mention lists, research tools or other recipients. (Saying where Taylor came across them
+  is required: see Email Shape.)
 - Exclamation marks, emoji, bold, buzzwords, more than one question.
 - "Hi there,", lowercase subjects, "Reply stop" or any opt-out line, brackets,
   placeholders, working markers.
