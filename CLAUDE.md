@@ -17,6 +17,13 @@ These are Taylor's standing rules. Follow them in every session.
 - Never print secrets. Ops output is aggregates only, with no guest names, emails or phones.
 - Never refer to a fleet by its number (fleet 1, fleet 15). Use the fleet's name, such as Taylor's Rentals.
 
+## Outreach Emails (Taylor, Oct 11, 2026)
+
+- Every outreach email follows OUTREACH_STANDARD.md in this repo. Read it before writing one.
+- Research every recipient (name and facts, with source links); samples first for Taylor's approval; work in rounds with a tracker; a second reviewer checks each email; nothing reaches Taylor's mailbox until it passes; never send.
+- No blanks, brackets, placeholders or markers. If only Taylor knows something, ask him before drafting.
+- Subjects are Title Case. Never "Hi there,". Links are real links, never split.
+
 ## Carry-Over Items
 
 On the next artifact about final tasks, list these as Taylor's own tasks (his pick, Oct 10, 2026):
