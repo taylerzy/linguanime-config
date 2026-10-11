@@ -46,6 +46,12 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - Taylor left these to my judgment (Oct 11; released Oct 11): keep "Remove From My Bill"; don't build account-level Gmail (forwarding to Your Turo Mail covers it) but refuse connecting one Gmail in several fleets and point to Your Turo Mail; add an All Fleets Alerts tab of the stored alerts from fleets where the person's role sees alerts.
 - Follow-ups noted at release: when billing is on, My Home checks each fleet's bill, which will need batching for a person with hundreds of fleets; fleets someone already pays for separately are not merged into one bill automatically.
 
+## For the Next Deploy (Taylor, Oct 11, 2026)
+
+Do these in the next release that goes out for any other reason, not on their own:
+
+- The dashboard car chip "Need GPS" reads "Needs GPS" (app/templates/_dashboard_grid.html, the chip text and its comment; the comments in vehicle_routes.py and templating.py that name it).
+
 ## Reminders Taylor Asked to Keep
 
 Add these to the reminders at the end of every reply until Taylor says they are done:
