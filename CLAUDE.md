@@ -30,16 +30,18 @@ On the next artifact about final tasks, list these as Taylor's own tasks (his pi
 - Auto Pricer: make no changes for now (Taylor's call after the hybrid assessment).
 - At the next legal change, and not before: remove PayPal and Venmo from the Privacy Notice, and add to terms section 6 that a removed car's unused days are credited on the next bill, never refunded.
 - "Trip Money" extra feature: leave as built (see and enter trip money).
+- A fleet with no owner yet can be closed by the co-host who created it, until it is claimed; after that, only the owner can close it.
+
+## To Discuss Before Building (Oct 11, 2026)
+
+Taylor asked to discuss these first and not build them yet:
+
+- Co-hosts who run many fleets for many owners (for example, a co-host with thousands of cars under different hosts): run every fleet without each owner signing up, and coordinate their own cleaners across those fleets.
+- A personal home page for co-hosts, VAs and cleaners in more than one fleet: each fleet in its own section on one page, separate from the fleet's home page.
+- A person holding more than one role, such as an owner who also cleans.
 
 ## Reminders Taylor Asked to Keep
 
 Add these to the reminders at the end of every reply until Taylor says they are done:
 
 - Drive: in Fleet Settings, Cleaning Photos, share the cleaning-photos folder with the app's Drive address as an Editor and paste the folder link, so the app can make each cleaning's folder.
-
-## Pending Data Fixes (Oct 11, 2026)
-
-Both dry runs were checked against production on Oct 11 and matched what was expected. Applying them was blocked by the permission check, so they wait for Taylor's OK. After each apply, re-run its dry run to confirm.
-
-- `scripts/ops_queries/fix_oil_baselines_fleet1.py` (taylerzy/taylorsfleet): re-estimates 7 auto-found oil changes on 7 cars. The Red Fiesta goes from overdue to OK, about 554 miles to go as of Oct 8.
-- `scripts/ops_queries/fix_folder_vin_matches_fleet1.py`: relinks the disabled Silver Sonic's 19 renamed cleaning folders to that car and closes their 19 "did not match a car" alerts. Afterwards, check that the Sonic's 2026 miles still read 7,282 and re-run `metrics_cleaning_check.py`.
