@@ -38,6 +38,12 @@ These are Taylor's standing rules. Follow them in every session.
 - Google Places for lead discovery (Taylor, Oct 12, 2026): never go past the free tier (Text Search Enterprise, 1,000 calls a month; the tool caps all agents at 900 a month, Pacific months). The key is never printed or committed; future sessions read it from the environment variable GOOGLE_PLACES_API_KEY.
 - Mail is on Google Workspace (Taylor, Oct 12, 2026; Business Starter, monthly). DNS stays at Northwest and was set through its API: MX `1 smtp.google.com.`, SPF `v=spf1 include:_spf.google.com ~all`, DKIM at `google._domainkey`, DMARC `v=DMARC1; p=quarantine; adkim=r; aspf=r`, and Google's verification CNAME `flgtjidzc3kk`. The app's mg.taylorsfleet.com Mailgun records are separate and unchanged. Northwest's Email Service and Business Domain are free and left idle (cancelling could make Northwest rewrite the mail records). Keep the Registered Agent services for TayTech and Roadloom.
 
+## Ads (Taylor, Oct 12, 2026)
+
+- Google Ads (TayTech Innovations LLC) is connected through the Camberstack connector. Read freely; change only through a proposal Taylor approves in chat, one proposal at a time. Every applied change can be undone.
+- Oct 12, applied with Taylor's OK (proposal p_88bc0bc2): 30 negative keywords, paused the keyword "peer to peer car rental software", daily budget $85 to $20 on the Search campaign. Before that it had spent $164 since Oct 2 (about $15 a day, 33 clicks, 0 sign-ups). Judge it around Oct 26 on fleets created from Google (the app now records each account's source).
+- Meta ads: guide at https://claude.ai/artifact/SNoExP5avsC2k49ndQSpvt, images at https://claude.ai/artifact/TfQDLXDgoEN4jjAusuS6i8. Meta isn't connected; taylorsfleet.com isn't verified with Meta yet (Taylor sends the code, I add the DNS record through Northwest).
+
 ## Carry-Over Items
 
 On the next artifact about final tasks, list these as Taylor's own tasks (his pick, Oct 10, 2026):
