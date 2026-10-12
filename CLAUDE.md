@@ -18,6 +18,7 @@ These are Taylor's standing rules. Follow them in every session.
 - Never refer to a fleet by its number (fleet 1, fleet 15). Use the fleet's name, such as Taylor's Rentals.
 - Times are Eastern (Taylor, Oct 12, 2026): every time in an artifact, page, reply or schedule for Taylor is Eastern Time (America/New_York, what his clock shows), labeled ET, never UTC. Convert stored UTC times before showing them.
 - Never fabricate a Turo call (Taylor, Oct 12, 2026). Agents, scripts, checks and code use only the Turo endpoints the app already calls, which are documented and tested (taylorsfleet `private/turo_endpoints/TURO_PRIVATE_ENDPOINTS.md`, Confirmed sections). Never guess, invent or probe a Turo URL to see whether it exists: guessed calls from the server can get Taylor's Turo account blocked. The app's Turo client refuses any other path (`_ALLOWED_ENDPOINTS`). A new endpoint needs Taylor's own browser capture first.
+- Never pause or stop running work Taylor didn't ask to stop (Taylor, Oct 12, 2026): a question from him, a rejected tool call or a long answer is not a reason to pause sends, agents or releases, and never ask him to restart something he didn't stop. When he asks for something (a draft, a number), put it in the reply he reads first, before anything else.
 - Agents produce results as they go (Taylor, Oct 12, 2026): every agent writes its output file after each item it finishes (each email, each review, each fix), never only at the end, so a stopped or restarted agent leaves everything it did behind.
 
 ## Outreach Emails (Taylor, Oct 11, 2026)
