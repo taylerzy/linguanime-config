@@ -46,9 +46,14 @@ not in a fixed slot.
 6. What the app does about it: Taylor hosts on Turo in Dayton and built the app for his own
    cars; then only the one or two outcomes that answer point 5, from Verified Claims. In
    first person ("I built an app"), not the product's full name. No feature lists.
-7. The ask (Taylor, Oct 12, 2026): always to try the app. Never a call, a meeting, a
-   referral deal or a video. One question, plus the safety net in a few words (two weeks
-   free, no card). The price is on the site; leave it out unless the email needs it.
+7. The ask (Taylor, Oct 12, 2026): to try the app. Never a call, a meeting or a video,
+   since Taylor can't call 100+ people a day. One question, plus the safety net in a few
+   words (two weeks free, no card). The price is on the site; leave it out unless the email
+   needs it. Partners (Taylor, Oct 12, 2026, later): for someone who reaches many hosts
+   (co-host networks, Turo coaches and courses, host communities, VA firms, vendors that
+   serve hosts), the email may also offer a partnership, ideally after asking them to try
+   the app first: a referral cut on every host they bring (terms open), or for a VA firm a
+   free fleet for its own team. Still one question, and never a call or meeting.
 8. No opt-out line of any kind (Taylor, Oct 11, 2026). These are one-off, individually
    tailored emails that Taylor follows up on personally, and only when they reply.
 
@@ -106,8 +111,8 @@ a plain-text copy. Never split or disguise a link.
   free; no card to sign up; the first payment is refunded on a cancel within 30 days of it. In
   an email say "from $15 a car a month", never a flat $15.
 - Partners: a referral cut on every host they bring (terms open); VA firms get a free fleet
-  for their own team. Mention these only when they reply; the first email asks them to try
-  the app.
+  for their own team. A first email to a partner may offer these (see Email Shape, point 7);
+  to anyone else, only when they reply.
 - A booking typed in by hand is an ordinary trip: it gets the same deadline and cleaner
   emails as a Turo trip.
 
