@@ -27,7 +27,7 @@ These are Taylor's standing rules. Follow them in every session.
 - No opt-out line of any kind (Taylor's call): one-off emails, no automated follow-ups; Taylor follows up personally only on a reply. Drafts go to taylor@taylorsfleet.com, not Gmail.
 - The ask is always to try the app (Taylor, Oct 12, 2026). Never a call, meeting or referral deal; Taylor won't call every person.
 - Emails must sound like Taylor, not a template (Oct 12, 2026): see "Sound Like Taylor, Not a Template" in OUTREACH_STANDARD.md, including the side-by-side test.
-- Mail moves to Google Workspace (Taylor, Oct 12, 2026). Northwest's Email Service and Business Domain are free; the domain and DNS stay at Northwest. Keep the Registered Agent services for TayTech and Roadloom.
+- Mail is on Google Workspace (Taylor, Oct 12, 2026; Business Starter, monthly). DNS stays at Northwest and was set through its API: MX `1 smtp.google.com.`, SPF `v=spf1 include:_spf.google.com ~all`, DKIM at `google._domainkey`, DMARC `v=DMARC1; p=quarantine; adkim=r; aspf=r`, and Google's verification CNAME `flgtjidzc3kk`. The app's mg.taylorsfleet.com Mailgun records are separate and unchanged. Northwest's Email Service and Business Domain are free and left idle (cancelling could make Northwest rewrite the mail records). Keep the Registered Agent services for TayTech and Roadloom.
 
 ## Carry-Over Items
 
