@@ -112,7 +112,8 @@ a plain-text copy. Never split or disguise a link.
   free; no card to sign up; the first payment is refunded on a cancel within 30 days of it. In
   an email say "from $15 a car a month", never a flat $15.
 - Partners: 25% of the profit from every host they bring, for as long as that host stays a
-  customer (Taylor, Oct 12, 2026: "25% of all lifetime profits for each customer"); VA firms
+  customer (Taylor, Oct 12, 2026: "25% of all lifetime profits for each customer"; profit is
+  what that host pays, minus card fees and refunds); VA firms
   get a free fleet for their own team. Say "25% of the profit", never "25% of what they
   pay". A first email to a partner may offer these (see Email Shape, point 7);
   to anyone else, only when they reply.
