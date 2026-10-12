@@ -18,7 +18,7 @@ sloppy; the rules below exist so that never happens again.
 1. Research each recipient first: the person who reads that inbox (owner, founder,
    manager, host profile name, show host) and one or two true, specific facts about them.
    Record a source link for the name and for every fact.
-2. Samples first: for a new campaign or a new kind of recipient, write 6 to 8 samples and
+2. Samples first: for a new campaign or a new kind of recipient, write 5 to 8 samples and
    get Taylor's approval of the voice before writing at scale.
 3. Write in rounds of about 25, tracked in the outreach tracker.
 4. Second reviewer: a separate pass reads each email as the recipient and rejects anything
@@ -27,33 +27,51 @@ sloppy; the rules below exist so that never happens again.
    never one tool call per draft.
 6. Never send. Taylor decides when and how sending is scheduled. Each email is a one-off:
    no automated follow-ups; Taylor follows up personally only when they reply.
-7. Drafts go to taylor@taylorsfleet.com (Northwest mailbox), not Gmail.
+7. Drafts go to taylor@taylorsfleet.com (moving to Google Workspace, Oct 12, 2026), not to
+   Taylor's personal Gmail.
 
-## Email Shape (100 to 150 words above the signature)
-Every email answers, in this order, the questions a stranger asks when it lands. If any one
-is missing, the email is babble: rewrite it.
+## Email Shape (about 70 to 120 words above the signature)
+Every email covers the things a stranger wants to know when it lands. If one is missing, the
+email is babble: rewrite it. Cover them in whatever order reads naturally for that email,
+not in a fixed slot.
 1. Subject: Title Case, 3 to 6 words, names their business or their problem. No brackets,
    no "Re:", no all caps, no clickbait.
 2. Greeting: "Hi {First}," when research ties a real person to that inbox; otherwise
    "Hi {Company} team,". Never "Hi there,".
-3. Where I found you, and what caught my interest (first sentence or two): the real place
-   (an article, their site, a search for Turo co-hosts in their city) and one specific thing
-   about them that a peer would notice. Never claim to have read, watched or used something
-   research did not find.
-4. The point (one sentence, early): why I'm writing to them in particular. It ties the fact
-   above to a consequence for them ("so when a partner misses a turnover, it's your renter
-   who gets the dirty car"). This is the "so what".
-5. The bridge to what we have (one or two sentences): Taylor hosts on Turo in Dayton and built
-   Taylor's Fleet Services for his own cars; then only the one or two outcomes that answer
-   the consequence in point 4, from Verified Claims. No feature lists.
-6. The ask, easy to say yes to: one question. Buyers: try it on a few cars, with the safety
-   net (14 days free, no card, from $15 a car a month). Partners: a short call about a
-   referral cut. Never a video.
-7. No opt-out line of any kind (Taylor, Oct 11, 2026). These are one-off, individually
+3. Where Taylor found them, said the way a person would ("I read the Hawaii Business story",
+   "your co-hosting page came up when I was looking at..."). Never claim to have read,
+   watched or used something research did not find.
+4. One specific, true thing about them, said plainly. One fact, not a list of their stats.
+5. Why that matters to them: the consequence, in plain words, not a polished one-liner.
+6. What the app does about it: Taylor hosts on Turo in Dayton and built the app for his own
+   cars; then only the one or two outcomes that answer point 5, from Verified Claims. In
+   first person ("I built an app"), not the product's full name. No feature lists.
+7. The ask (Taylor, Oct 12, 2026): always to try the app. Never a call, a meeting, a
+   referral deal or a video. One question, plus the safety net in a few words (two weeks
+   free, no card). The price is on the site; leave it out unless the email needs it.
+8. No opt-out line of any kind (Taylor, Oct 11, 2026). These are one-off, individually
    tailored emails that Taylor follows up on personally, and only when they reply.
 
 The reviewer's test: read only the first two sentences. If they don't say who they are to
 Taylor and why he is writing, the email fails.
+
+## Sound Like Taylor, Not a Template (Taylor, Oct 12, 2026)
+Taylor rejected the Oct 11 samples because they read as AI-written. Every round, check for
+and remove these tells:
+- The same opening in more than one email ("I came across X while looking at Y").
+- Grading the reader ("is a serious run", "a smart way to grow", "impressive").
+- Reciting several of their own numbers back to them. One fact is enough.
+- Announcing the purpose ("that's why I'm writing", "I'm writing because").
+- Neat one-liner zingers that sum up their problem.
+- The same self-introduction, feature sentence or ask in more than one email of a round.
+  Vary the words, not the facts: "I'm a Turo host in Dayton", "I host about a dozen cars
+  on Turo in Dayton", "I host on Turo myself, in Dayton".
+- App jargon the reader doesn't use ("clean-by time"); say "a deadline from the car's next
+  booking" or similar.
+- Every email the same shape and length.
+
+The side-by-side test: put any two emails of a round next to each other. If they look like
+the same template with different names, both fail.
 
 ## Signature (exactly; taylorsfleet.com and LinkedIn are real links)
 Taylor Luehrs
@@ -87,7 +105,10 @@ a plain-text copy. Never split or disguise a link.
   free; no card to sign up; the first payment is refunded on a cancel within 30 days of it. In
   an email say "from $15 a car a month", never a flat $15.
 - Partners: a referral cut on every host they bring (terms open); VA firms get a free fleet
-  for their own team.
+  for their own team. Mention these only when they reply; the first email asks them to try
+  the app.
+- A booking typed in by hand is an ordinary trip: it gets the same deadline and cleaner
+  emails as a Turo trip.
 
 ## Never
 - Invent a fact, name, number, post, episode or relationship.

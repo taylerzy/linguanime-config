@@ -25,6 +25,9 @@ These are Taylor's standing rules. Follow them in every session.
 - Subjects are Title Case. Never "Hi there,". Links are real links, never split.
 - taylorsfleet.com mail (Oct 11, 2026): the @ MX record was "0 default.org." (dead) from Northwest's setup and was changed to "10 mailserver.businessidentity.llc." through Northwest's dashboard API (PUT client/domains/{id}/dns, records with changetype REPLACE; it replaces only that record set). Outbound from taylor@taylorsfleet.com passes SPF, DKIM and DMARC. Northwest's DNS page needs a live connection this cloud session can't make.
 - No opt-out line of any kind (Taylor's call): one-off emails, no automated follow-ups; Taylor follows up personally only on a reply. Drafts go to taylor@taylorsfleet.com, not Gmail.
+- The ask is always to try the app (Taylor, Oct 12, 2026). Never a call, meeting or referral deal; Taylor won't call every person.
+- Emails must sound like Taylor, not a template (Oct 12, 2026): see "Sound Like Taylor, Not a Template" in OUTREACH_STANDARD.md, including the side-by-side test.
+- Mail moves to Google Workspace (Taylor, Oct 12, 2026). Northwest's Email Service and Business Domain are free; the domain and DNS stay at Northwest. Keep the Registered Agent services for TayTech and Roadloom.
 
 ## Carry-Over Items
 
