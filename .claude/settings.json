@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "mcp__Gmail__delete_draft"
+      "mcp__Gmail__delete_draft",
+      "mcp__Gmail__send_message",
+      "Bash(sleep:*)"
     ]
   }
 }
