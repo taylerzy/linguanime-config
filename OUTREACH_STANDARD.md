@@ -100,7 +100,8 @@ a plain-text copy. Never split or disguise a link.
 - Trip photo zips for damage claims: the cleaner's photos from before pickup, originals with
   time stamps.
 - Mechanic dispatch with a runner; the car's cleaning is called off.
-- A co-host or VA login that sees no money; one login can work in several fleets.
+- A VA login that sees no money (a co-host login sees everything, including the money); one
+  login can work in several fleets.
 - From $15 a car a month ($15 for cars 1 to 5, $12 for cars 6 to 20, $10 from car 21); 14 days
   free; no card to sign up; the first payment is refunded on a cancel within 30 days of it. In
   an email say "from $15 a car a month", never a flat $15.
