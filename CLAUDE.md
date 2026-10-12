@@ -16,6 +16,7 @@ These are Taylor's standing rules. Follow them in every session.
 - Short replies. Put decisions in one numbered list.
 - Never print secrets. Ops output is aggregates only, with no guest names, emails or phones.
 - Never refer to a fleet by its number (fleet 1, fleet 15). Use the fleet's name, such as Taylor's Rentals.
+- Agents produce results as they go (Taylor, Oct 12, 2026): every agent writes its output file after each item it finishes (each email, each review, each fix), never only at the end, so a stopped or restarted agent leaves everything it did behind.
 
 ## Outreach Emails (Taylor, Oct 11, 2026)
 
