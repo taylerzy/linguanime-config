@@ -39,6 +39,12 @@ These are Taylor's standing rules. Follow them in every session.
 - Google Places for lead discovery (Taylor, Oct 12, 2026): never go past the free tier (Text Search Enterprise, 1,000 calls a month; the tool caps all agents at 900 a month, Pacific months). The key is never printed or committed; future sessions read it from the environment variable GOOGLE_PLACES_API_KEY.
 - Mail is on Google Workspace (Taylor, Oct 12, 2026; Business Starter, monthly). DNS stays at Northwest and was set through its API: MX `1 smtp.google.com.`, SPF `v=spf1 include:_spf.google.com ~all`, DKIM at `google._domainkey`, DMARC `v=DMARC1; p=quarantine; adkim=r; aspf=r`, and Google's verification CNAME `flgtjidzc3kk`. The app's mg.taylorsfleet.com Mailgun records are separate and unchanged. Northwest's Email Service and Business Domain are free and left idle (cancelling could make Northwest rewrite the mail records). Keep the Registered Agent services for TayTech and Roadloom.
 
+## Pricing (Taylor, Oct 13, 2026)
+
+- Flat plans, never per car (the "Garage-to-Empire Ladder", review page https://claude.ai/artifact/CcooEUGm1oBKh15h3NZMMQ): Garage free (2 live cars, extra cars paused), Host $29 (5 cars), Fleet $49 (20), Pro $99 (50), Empire $179 (100) / $349 (250) / $649 (500); yearly is 10 times monthly. Every sign-up gets a 14-day Test Drive, no card. Taylor said ship it without waiting for approval (Oct 13, 7 PM ET). Stripe live Prices exist with lookup keys tf_<plan>_month / tf_<plan>_year. Deferred: the Founding 100 and the 30-day wait before a removed car comes back on Garage.
+- Ads never state a price, dollar amount, plan name or car limit (Taylor, Oct 13, 2026), so prices can change without new ads. "Start free. Flat price, never per car." is fine.
+- Meta (Oct 13, 2026, about 6:55 PM ET, Taylor's order): "Turo Hosts - Sign-Ups - Oct 2026" was paused, and a brand-new campaign, "Turo Hosts - Sign-Ups - Flat Plans - Oct 2026" ($40 a day, same audience and Lead goal), runs the new ads D, E and F.
+
 ## Ads (Taylor, Oct 12, 2026)
 
 - Brand (Taylor, Oct 13, 2026): the company stays Taylor's Fleet Services. "Fleet Command" is only the internal name of the 3D city homepage concept and does not appear on the page (the name is used by NVIDIA Fleet Command and by rental and trucking fleet software). No rename without discussing it with Taylor first.
