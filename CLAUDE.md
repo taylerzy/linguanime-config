@@ -41,6 +41,7 @@ These are Taylor's standing rules. Follow them in every session.
 
 ## Ads (Taylor, Oct 12, 2026)
 
+- Brand (Taylor, Oct 13, 2026): the company stays Taylor's Fleet Services. "Fleet Command" is only the internal name of the 3D city homepage concept and does not appear on the page (the name is used by NVIDIA Fleet Command and by rental and trucking fleet software). No rename without discussing it with Taylor first.
 - Homepage Visits (released Oct 13, 2026; Platform > Homepage Visits): anonymous scroll, section, hover and click recording on the homepage and sign-up page. No Privacy Notice or FAQ update for it (Taylor, Oct 13, 2026, final). Taylor's own visits count like anyone's; no exclusion button. Ad visits are told apart by their source.
 
 - Google Ads (TayTech Innovations LLC) is connected through the Camberstack connector. Read freely; change only through a proposal Taylor approves in chat, one proposal at a time. Every applied change can be undone.
