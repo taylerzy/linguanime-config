@@ -59,6 +59,10 @@ These are Taylor's standing rules. Follow them in every session.
 
 - App tabs redesign (asked Oct 13, 2026; parked Oct 17 at Taylor's request, "remind me and we'll go back to that later"): redesign every app tab in the night-city homepage style without changing his text, carry the homepage's feel past sign-up, hover and zoom to where each car really is, and show cars at their real GPS location in a 3D street view, parked or driving, live if possible.
 
+## Owner Fleet Map (Taylor, Oct 17, 2026)
+
+- The owner-only Dashboard map (MapLibre with our own Dayton map data) looks like a flat map with 3D cars; that is not what Taylor asked for. He chose Google's photographic 3D city (Map Tiles API, Photorealistic 3D Tiles) graded to the homepage's night look, with cars at their real GPS spots and live driving. Price (Google's list, Oct 2026): 1,000 map loads free a month, then $6 per 1,000; each load covers up to 3 hours of viewing. Keep owner use under the free 1,000 with a daily quota cap. Live driving (Bouncie trip points streamed and played back a few seconds behind) is being built on the current map meanwhile.
+
 ## Partners (Taylor, Oct 17, 2026)
 
 - Miguel (Taylor's business partner, account miguel@taylorsfleet.com) reaches out to prospects and runs demos; he ran an exotic fleet before. His terms: 20% of profits plus $30 for each paying customer we get. First prospect: a 47-car, mostly exotic fleet that answered our ads and uses Wheelbase (fit review: https://claude.ai/artifact/37WtvVuFwkk2BVdjwhZqYt, Oct 17; Wheelbase bookings can reach us through their Zapier "New or Updated Reservation" trigger).
