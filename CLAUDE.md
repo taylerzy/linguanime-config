@@ -11,7 +11,7 @@ These are Taylor's standing rules. Follow them in every session.
 
 - Don't tell Taylor to check things. Check them yourself.
 - Don't ask for things you can easily get yourself.
-- Do not wait for Taylor on deployments; release, but don't deploy broken things.
+- Releases need Taylor's approval (Taylor, Oct 17, 2026: "this is my approval, don't wait", not "you don't need my approval"). When he asks for a change, that is his approval to release it: release as soon as it is done and tested, without asking again. Don't release anything he didn't ask for, and never deploy broken things.
 - Don't schedule check-ins or follow-ups without Taylor's approval.
 - Short replies. Put decisions in one numbered list.
 - Never print secrets. Ops output is aggregates only, with no guest names, emails or phones.
@@ -43,7 +43,7 @@ These are Taylor's standing rules. Follow them in every session.
 
 - Flat plans, never per car (the "Garage-to-Empire Ladder", review page https://claude.ai/artifact/CcooEUGm1oBKh15h3NZMMQ): Garage free (2 live cars, extra cars paused), Host $29 (5 cars), Fleet $49 (20), Pro $99 (50), Empire $179 (100) / $349 (250) / $649 (500); yearly is 10 times monthly. No Test Drive (released Oct 14 with Terms 2026-10-14; Taylor confirmed Oct 17): every new fleet starts on Garage, free with up to 2 live cars, no card. Fleets that signed up before Oct 14 kept their 14-day Test Drive. Taylor said ship it without waiting for approval (Oct 13, 7 PM ET); released to taylorsfleet.com Oct 13, 2026, about 8:15 PM ET (main e1c05f2), with Terms and Privacy Notice 2026-10-13 (everyone re-accepts). Stripe live Prices exist with lookup keys tf_<plan>_month / tf_<plan>_year. Garage limits receipts, invoices, tolls, cleaner pay, 1099s, photo zip, GPS, AI odometer, team logins and history past 60 days (this overrides the old "operating loop is never gated" note). A never-paid fleet closes only after 90 days with no sign-in and no new bookings. After the one 30-day grace in 12 months, a yearly plan past its limit moves up at once and pays only the prorated difference; a monthly plan moves at its next bill (Taylor, Oct 13, 2026; released with Terms 2026-10-13.2). Deferred: the Founding 100, the 30-day wait before a removed car comes back on Garage, an automatic move down to a smaller plan, and self-serve yearly-to-monthly (the Stripe portal offers no plan switching).
 - Ads never state a price, dollar amount, plan name or car limit (Taylor, Oct 13, 2026), so prices can change without new ads. "Start free. Flat price, never per car." is fine.
-- Meta (Oct 13, 2026, about 6:55 PM ET, Taylor's order): "Turo Hosts - Sign-Ups - Oct 2026" was paused, and a brand-new campaign, "Turo Hosts - Sign-Ups - Flat Plans - Oct 2026" ($40 a day, same audience and Lead goal), runs the new ads D (Profit Constellation), E (One Screen) and F (Turnaround), published Oct 13, about 8:25 PM ET, in Meta review at publish. Images are served from taylorsfleet.com/static/img/ads/v2/. The old stop rule carries over: judge around Oct 20 or about $280 with zero fleets created.
+- Meta (Oct 13, 2026, about 6:55 PM ET, Taylor's order): "Turo Hosts - Sign-Ups - Oct 2026" was paused, and a brand-new campaign, "Turo Hosts - Sign-Ups - Flat Plans - Oct 2026" ($40 a day, same audience and Lead goal), runs the new ads D (Profit Constellation), E (One Screen) and F (Turnaround), published Oct 13, about 8:25 PM ET, in Meta review at publish. Images are served from taylorsfleet.com/static/img/ads/v2/. The old stop rule carries over: judge around Oct 20 or about $280 with zero fleets created. Oct 17, 2026: a third campaign, "Taylor's Fleet Services | New Creative Test | Oct 2026" ($60 a day, started Oct 15), brought 5 fleets in two days; Taylor: what we have is working well, no change to ad spend or ads. The scheduled Oct 19 stop-rule check was removed at his request.
 
 ## Ads (Taylor, Oct 12, 2026)
 
@@ -65,7 +65,7 @@ These are Taylor's standing rules. Follow them in every session.
 
 ## Partners (Taylor, Oct 17, 2026)
 
-- Miguel (Taylor's business partner, account miguel@taylorsfleet.com) reaches out to prospects and runs demos; he ran an exotic fleet before. His terms: 20% of profits plus $30 for each paying customer we get. First prospect: a 47-car, mostly exotic fleet that answered our ads and uses Wheelbase (fit review: https://claude.ai/artifact/37WtvVuFwkk2BVdjwhZqYt, Oct 17; Wheelbase bookings can reach us through their Zapier "New or Updated Reservation" trigger).
+- Miguel (Taylor's business partner, account miguel@taylorsfleet.com) reaches out to prospects and runs demos; he ran an exotic fleet before. His terms: 20% of profits plus $30 for each paying customer we get. Wm exotics Miami Beach is Miguel's own fleet (WM = Miguel Wolmers); leave the account as it is (Taylor, Oct 17). First prospect: a 47-car, mostly exotic fleet that answered our ads and uses Wheelbase (fit review: https://claude.ai/artifact/37WtvVuFwkk2BVdjwhZqYt, Oct 17; Wheelbase bookings can reach us through their Zapier "New or Updated Reservation" trigger).
 
 ## Carry-Over Items
 

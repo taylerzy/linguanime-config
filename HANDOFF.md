@@ -103,8 +103,10 @@ Turo hosts. The live site is https://taylorsfleet.com. It runs on the Fly app
 4. Then `curl https://taylorsfleet.com/healthz` must answer
    `{"status":"ok","db":true,...}`.
 
-Taylor's standing rule: don't wait for him to release finished, tested work,
-and never release anything broken. These always need his explicit OK first:
+Every release needs Taylor's approval. When he asks for a change, that is his
+approval to release it: release as soon as it is done and tested, without
+asking again. Don't release anything he didn't ask for, and never anything
+broken. These always need his explicit OK for that exact change:
 
 - any privacy notice change (never merge one to main unapproved, because
   main ships with the next release)
@@ -154,4 +156,6 @@ needed). It is never part of the pipeline.
 6. **Meta:** two campaigns are active.
    - "Taylor's Fleet Services | New Creative Test | Oct 2026", $60 a day.
    - "Turo Hosts - Sign-Ups - Flat Plans - Oct 2026", $40 a day.
-   - Change nothing without Taylor's OK.
+   - Taylor (Oct 17): working well, no change to ad spend or ads.
+7. **Wm exotics Miami Beach** is Miguel's own fleet. Leave the account as it is.
+8. **Not now (Taylor, Oct 17):** no setup-reminder emails, no password gate on staging.
