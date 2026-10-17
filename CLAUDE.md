@@ -55,6 +55,14 @@ These are Taylor's standing rules. Follow them in every session.
 - Meta ads: guide at https://claude.ai/artifact/SNoExP5avsC2k49ndQSpvt, images at https://claude.ai/artifact/TfQDLXDgoEN4jjAusuS6i8. Meta Ads is connected (Oct 12; official connector, one ad account with a card on file, no business portfolio). Create, publish or activate anything only with Taylor's OK in chat. Its only Page is Turo Rentals Dayton; there is no Instagram account. Pixel 2098960450714876 gets PageView and Lead, no server events yet. taylorsfleet.com isn't verified with Meta yet (Taylor sends the code, I add the DNS record through Northwest).
 - Meta campaign (Taylor's OK, Oct 12, 2026, about 6:50 PM ET): "Turo Hosts - Sign-Ups - Oct 2026", $40 a day, US, Advantage+ audience (21+), aimed at Lead (sign-up page visits) until real sign-ups exist, then switch to CompleteRegistration (fleet created). Page: Taylor's Fleet Services. Ads A (Cleaning), B (Profit), C (Team) link to taylorsfleet.com with utm_source=meta and utm_content=ad_a/ad_b/ad_c; images are served from taylorsfleet.com/static/img/ads/. Facebook only until an Instagram account is linked. Stop rule Taylor approved: after 7 days (about Oct 19) or about $280 with zero fleets created, pause it and report (Taylor approved a one-time check, scheduled for Mon Oct 19, 9:00 AM ET). The ads were approved and went live Oct 12, 7:07 PM ET. The three old Marketplace boosts were paused the same night at Taylor's request.
 
+## Reminders For Taylor (bring these up)
+
+- App tabs redesign (asked Oct 13, 2026; parked Oct 17 at Taylor's request, "remind me and we'll go back to that later"): redesign every app tab in the night-city homepage style without changing his text, carry the homepage's feel past sign-up, hover and zoom to where each car really is, and show cars at their real GPS location in a 3D street view, parked or driving, live if possible.
+
+## Partners (Taylor, Oct 17, 2026)
+
+- Miguel (Taylor's business partner, account miguel@taylorsfleet.com) reaches out to prospects and runs demos; he ran an exotic fleet before. His terms: 20% of profits plus $30 for each paying customer we get. First prospect: a 47-car, mostly exotic fleet that answered our ads and uses Wheelbase (fit review artifact, Oct 17).
+
 ## Carry-Over Items
 
 On the next artifact about final tasks, list these as Taylor's own tasks (his pick, Oct 10, 2026):
