@@ -61,7 +61,7 @@ These are Taylor's standing rules. Follow them in every session.
 
 ## Partners (Taylor, Oct 17, 2026)
 
-- Miguel (Taylor's business partner, account miguel@taylorsfleet.com) reaches out to prospects and runs demos; he ran an exotic fleet before. His terms: 20% of profits plus $30 for each paying customer we get. First prospect: a 47-car, mostly exotic fleet that answered our ads and uses Wheelbase (fit review artifact, Oct 17).
+- Miguel (Taylor's business partner, account miguel@taylorsfleet.com) reaches out to prospects and runs demos; he ran an exotic fleet before. His terms: 20% of profits plus $30 for each paying customer we get. First prospect: a 47-car, mostly exotic fleet that answered our ads and uses Wheelbase (fit review: https://claude.ai/artifact/37WtvVuFwkk2BVdjwhZqYt, Oct 17; Wheelbase bookings can reach us through their Zapier "New or Updated Reservation" trigger).
 
 ## Carry-Over Items
 
