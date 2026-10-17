@@ -150,9 +150,7 @@ needed). It is never part of the pipeline.
    until he asks.
 4. **Bring up when the time is right:** the app tabs redesign in the
    night-city style. It is parked.
-5. **Test Drive:** the rules file says every sign-up gets a 14-day Test Drive.
-   The app has given new fleets none since the Oct 14 release (Terms
-   2026-10-14, commit 28614d06). Taylor's answer decides which is right.
+5. **No Test Drive (Taylor, Oct 17):** new fleets start on Garage, free with up to 2 live cars. Fleets from before Oct 14 kept 14 days.
 6. **Meta:** two campaigns are active.
    - "Taylor's Fleet Services | New Creative Test | Oct 2026", $60 a day.
    - "Turo Hosts - Sign-Ups - Flat Plans - Oct 2026", $40 a day.
