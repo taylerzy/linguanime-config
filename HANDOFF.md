@@ -75,6 +75,9 @@ Turo hosts. The live site is https://taylorsfleet.com. It runs on the Fly app
 
 - `git fetch origin main` before every branch. One branch per feature; commit
   as you go.
+- Pull before every push: others sometimes work on these repos. Fetch and pull
+  the branch first (and `origin/main` before merging to it), check what's new,
+  then merge or rebase. Never force-push over someone else's commits.
 - Tests: **at most 50 tests, and the whole suite under 30 seconds** (the time
   pytest reports). `tests/conftest.py` enforces both. Don't add tests: edit
   the existing ones your change breaks, and if a test is truly needed, delete

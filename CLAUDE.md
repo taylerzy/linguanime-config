@@ -13,6 +13,7 @@ These are Taylor's standing rules. Follow them in every session.
 - Don't ask for things you can easily get yourself.
 - Releases need Taylor's approval (Taylor, Oct 17, 2026: "this is my approval, don't wait", not "you don't need my approval"). When he asks for a change, that is his approval to release it: release as soon as it is done and tested, without asking again. Don't release anything he didn't ask for, and never deploy broken things.
 - Don't schedule check-ins or follow-ups without Taylor's approval.
+- Pull before every push (Taylor, Oct 17, 2026): other people and agents sometimes work on these repos. Before any push, fetch and pull the branch you push to (and `origin/main` before merging to it), look at what's new, and merge or rebase onto it. Never force-push over someone else's commits.
 - Short replies. Put decisions in one numbered list.
 - Never print secrets. Ops output is aggregates only, with no guest names, emails or phones.
 - Never refer to a fleet by its number (fleet 1, fleet 15). Use the fleet's name, such as Taylor's Rentals.
