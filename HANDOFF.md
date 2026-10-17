@@ -151,8 +151,10 @@ needed). It is never part of the pipeline.
    - It stays owner-only (Taylor, Oct 17).
 2. **Minor:** remove the never-shown CLAIMS line from the plan feature lists
    and `plan_gates.py` in the next release.
-3. **Exotic 47-car Wheelbase prospect:** Taylor is assessing it. Do nothing
-   until he asks.
+3. **Exotic 47-car Wheelbase prospect:** the full review, the prospect's
+   email, current state and where each part starts in the code are in
+   `EXOTIC_FIT.md` (same as https://claude.ai/artifact/37WtvVuFwkk2BVdjwhZqYt).
+   Taylor reviews it and then says what to build. Do nothing until he does.
 4. **Bring up when the time is right:** the app tabs redesign in the
    night-city style. It is parked.
 5. **No Test Drive (Taylor, Oct 17):** new fleets start on Garage, free with up to 2 live cars. Fleets from before Oct 14 kept 14 days.
